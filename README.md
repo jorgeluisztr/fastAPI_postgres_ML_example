@@ -9,6 +9,8 @@ One great material to understand how to use fastAPI is [this video](https://www.
 **The logistic regression model used in this app (as a pickle) was obtained from** [here](https://www.kaggle.com/startupsci/titanic-data-science-solutions).
 
 **Warning**
+
+
 Please check the ip adress of your postgres container using
   
   <docker inspect your-container-id | grep IPAdress>
