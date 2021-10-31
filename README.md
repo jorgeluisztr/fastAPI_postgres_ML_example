@@ -11,6 +11,6 @@ One great material to understand how to use fastAPI is [this video](https://www.
 **Warning**
 Please check the ip adress of your postgres container using
   
-  docker inspect your-container-id | grep IPAdress
+  <docker inspect your-container-id | grep IPAdress>
   
 and then change it from docker-compose
